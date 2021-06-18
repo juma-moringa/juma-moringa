@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://logos.flamingtext.com/Name-Logos/Ajay-design-sketch-name.png" height="200"/>
 </p>
 <br>
 <p align="left"> 
@@ -43,4 +43,4 @@
 ---
 
 
-Last Edited on: 18/07/2021
+Last Edited on: **_18/07/2021_**
