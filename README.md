@@ -7,7 +7,7 @@
  </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Juma Allan  </h1>
-<h3 align="center">Software Engineer | Programmer </h3>
+<h3 align="center">Software Engineer | Fullstack web developer </h3>
 <p align="center">
 <!-- <a href = "mailto: jumaallanie@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a> -->
 </p>
