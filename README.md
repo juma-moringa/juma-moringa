@@ -42,5 +42,10 @@
  
   <hr>
 ---
+<hr>
 
-Last Edited on: **_18/07/2021_**
+## Brief GitHub Stats.
+
+<a href="#">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juma-moringa&hide=less,html,css,scss&layout=compact&title_color=6cc644&border_radius=0" />
+Last Edited on: **_15/07/2021_**
