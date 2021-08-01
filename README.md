@@ -25,7 +25,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
-✔ Callme: **_jay_**😊 <br>
+✔ Callme: ***_jay_***😊 <br>
 ✔ I’m currently learning **software programming at Moringa School**😊🥰<br>
 ✔ I’m looking to collaborate with any **Open projects**<br>
 ✔ Ask from me anything you want, If I am alive I will definitely answer within seconds 😉<br>
