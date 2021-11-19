@@ -25,8 +25,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
-✔ Callme: _jay_😊 <br>
-✔ I’m currently learning **software programming at Moringa School**😊🥰<br>
+✔ Callme: jay😊 <br>
+✔ I learnt **software programming at Moringa School**😊🥰<br>
 ✔ I’m looking to collaborate with any **Open projects**<br>
 ✔ Ask from me anything you want, If I am alive I will definitely answer within seconds 😉<br>
 ✔ Fun fact : _I Always try to learn something new and then sleep till it store in the brain,Am learning how to learn._ 😎<br><br><br><br>
